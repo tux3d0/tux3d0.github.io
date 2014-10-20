@@ -9,6 +9,8 @@ body{
 	max-height: 75%;
 	height: 75%;
 	background-color: #B7B7B7;
+	margin-top :25%;
+	margin-left:25%;
 }
 .aboutPar{
 	max-width: 75%;
@@ -16,4 +18,5 @@ body{
 	max-height: 75%;
 	height: 75%;
 	background-color: #B7B7B7;
+	text-align :center;
 }
