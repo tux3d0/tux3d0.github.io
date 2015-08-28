@@ -1,0 +1,57 @@
+body{
+	width: 100%;
+	height: auto;
+}
+
+#header{
+	width: 100;
+	height: 5%;
+}
+
+.resumeMenu ul{
+	background-color: black;
+	color: white;
+	list-style-type: none;
+	text-decoration: none;
+	text-align: center;
+}
+
+.resumeMenu ul li{
+	list-style-type: none;
+	display: inline;
+	text-align: center;
+	margin-left: 5%;
+	color: white;
+	text-decoration: none;
+}
+
+.resumeMenu ul a{
+	color: white;
+	text-decoration: none;
+	font-size: 14pt;
+}
+.resumeNav{
+	list-style-type:none;
+	text-align: center;
+	text-decoration: none;
+}
+.resumeNav ul{
+	list-style-type:none;
+	text-align: center;
+	text-decoration: none;
+}
+.profilePic {
+	float: right;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-right: 2%;
+	border: solid;
+	box-shadow: 5px 5px lightgrey;
+}
+
+.info{
+	max-width: 100%;
+}
+.name{
+	text-shadow: 1px 5px lightgrey;
+}
